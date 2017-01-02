@@ -11,8 +11,8 @@ And send to Evernote the invoice file.
 
 Download this repository, if you are using Mac, you don't need to install Git because Git is already installed. Bundler(bundle) is expect that it is installed. Start the Terminal, type the following commands:
 
-    git clone https://github.com/seirei/send-omc-invoice-to-evernote.git
-    cd send-omc-invoice-to-evernote
+    git clone https://github.com/seirei/send-invoice-to-evernote.git
+    cd send-invoice-to-evernote
     bundle install --path vendor/bundle
 
 # Usage #
