@@ -1,9 +1,10 @@
 # Send pdf file to Evernote #
 
-This library, to download the invoice file from OMC Plus members site.
+This library, to download the invoice file from OMC Plus members site and VIEW's NET.
 And send to Evernote the invoice file.
 
  * http://www.cedyna.co.jp/
+ * https://viewsnet.jp/
  * http://evernote.com/
 
 # Installing #
