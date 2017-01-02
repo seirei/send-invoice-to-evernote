@@ -6,7 +6,7 @@ require 'omc_config.rb'
 #
 # download invoice pdf file
 #
-def download_invoice_omc(yaer=nil, month=nil)
+def download_invoice_omc(year=nil, month=nil)
   # Get the agent instance
   agent = Mechanize.new
 
