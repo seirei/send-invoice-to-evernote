@@ -132,4 +132,4 @@ year = Time.now.strftime("%Y")
 month = Time.now.strftime("%m")
 
 # put note with attachement file
-put_note "#{year}年#{month}月ご利用代金明細照会", "", PARENT_NOTEBOOK_GUID, Array.new.push(resource), Array.new.push("OMC")
+put_note "#{year}年#{month}月ご利用代金明細照会｜セディナカード", "", PARENT_NOTEBOOK_GUID, Array.new.push(resource), Array.new.push("OMC")
